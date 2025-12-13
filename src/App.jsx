@@ -3,6 +3,7 @@
 
 // import './themes/global.css'
 import { Button } from './components/button/Button.jsx'
+import Facebook from './components/PageNavigation/PageNavigation_images/Facebook.svg?react';
  
  
 function App() {
@@ -17,9 +18,9 @@ return (
     <>
     <Button children="Save" variant="primary"/>
       <Button children="Block" variant="secondary" size="sm"/>
-      <Button loading={true} onClick={check} >
+      <Button loading={false} onClick={check} >
         Save
-       
+       <Facebook />
       </Button>
      
     </>
