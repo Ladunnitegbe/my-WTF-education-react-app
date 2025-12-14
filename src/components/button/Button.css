@@ -1,4 +1,4 @@
-.btn-secondary{
+.btn--secondary{
     background-color: green;
 }
  
@@ -6,8 +6,8 @@
     background-color: red;
     font-size: larger;
 }
- 
-.btn-sm{
+
+.btn--sm{
     font-size: smaller;
 }
  
