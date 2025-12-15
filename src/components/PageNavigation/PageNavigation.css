@@ -1,0 +1,44 @@
+@import url(../../themes/variables.css);
+
+.page-banner {
+  padding-left: var(--padding-left);
+  padding-right: var(--padding-right);
+  background-color: var(--primary-color-page-banner);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #ffffff;
+  width: var(--max-width);
+  height: 3.125rem;
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: Regular;
+  font-size: var(--font-size-page-banner);
+  font-style: normal;
+}
+
+.page-banner__content{
+    display: flex;
+    align-items: center;
+   gap: 1.25rem;
+
+}
+
+
+
+
+.page-banner__iconswrapper{
+    display: flex;
+    align-items: center;
+    gap: 2.6794rem;
+    background-color: var(--secondary-color-page-banner);
+    width: 19.1644rem;
+  
+}
+
+
+
+.page-banner___icons{
+    display: flex;
+    align-items: center;
+}

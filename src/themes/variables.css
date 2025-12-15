@@ -1,0 +1,15 @@
+:root{
+    /* color */
+    --primary-color-page-banner: #00BEAE;
+    --secondary-color-page-banner: #FF9E0E;
+
+
+    /* font-size */
+    --font-size-page-banner: 1.0625rem;
+
+    /* measurements */
+    --padding-left: 18.75rem;
+    --padding-right: 18.75rem;
+    --max-width: 120rem;
+    
+}
