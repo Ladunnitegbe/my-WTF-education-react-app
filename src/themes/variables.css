@@ -5,11 +5,13 @@
 
 
     /* font-size */
-    --font-size-page-banner: 1.0625rem;
+    --font-family-header: 'Sora', sans-serif;
+    --font-family-body: 'Epilogue', sans-serif;
+    --font-size-page-banner: 1rem;
 
     /* measurements */
-    --padding-left: 18.75rem;
-    --padding-right: 18.75rem;
-    --max-width: 120rem;
+    --padding-left: 7.25rem;
+    --padding-right: 7.25rem;
+    --max-width: 99vw;
     
 }

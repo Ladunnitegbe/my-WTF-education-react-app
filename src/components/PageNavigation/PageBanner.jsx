@@ -25,10 +25,11 @@ export function PageBanner() {
         </section>
 
         <section className="page-banner__iconswrapper">
+          <div className="page-banner___icons-innerwrapper">
           <div className="page-banner___changelang">
             <Flag className="page-banner___changelang_icon" />
             English
-            <ArrowDown className="page-banner___changelang_icon" />
+            <ArrowDown className="page-banner___changelang_icon arrowdown" />
           </div>
           <div className="page-banner___icons">
             <Facebook className="page-banner___icons_icon" />
@@ -36,6 +37,8 @@ export function PageBanner() {
             <Skype className="page-banner___icons_icon" />
             <Linkedin className="page-banner___icons_icon" />
           </div>
+          </div>
+          <div className="blueline"></div>
         </section>
       </div>
     </>
