@@ -1,4 +1,4 @@
-:root{
-    box-sizing: border-box;
-     width: 100vw;
+* {
+   /* box-sizing: border-box; */
+    width: var(--max-width);
 }

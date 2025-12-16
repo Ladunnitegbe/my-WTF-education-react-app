@@ -7,11 +7,11 @@
     /* font-size */
     --font-family-header: 'Sora', sans-serif;
     --font-family-body: 'Epilogue', sans-serif;
-    --font-size-page-banner: 1rem;
+    --font-size-page-banner: 1.0625rem;
 
     /* measurements */
-    --padding-left: 7.25rem;
-    --padding-right: 7.25rem;
-    --max-width: 99vw;
+    --padding-left: 18.75rem;
+    --padding-right: 18.75rem;
+    --width: 1920px;
     
 }
