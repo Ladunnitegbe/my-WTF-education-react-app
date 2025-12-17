@@ -13,7 +13,7 @@ export function PageHeader() {
     <section className="page-header">
         <div className="page-header_logo">
             <EdunityLogo className="page-header_logo__icon"/>
-            <img src="public/EdunityLogo.png" className="page-header_logo__icon"/>
+            <img src="/EdunityLogo.png" className="page-header_logo__icon"/>
         </div>
         <div className="page-header_links">
             <a href="#" className="page-header___link">Home <ArrowDownDark className="page-header___link___icon" /></a>
