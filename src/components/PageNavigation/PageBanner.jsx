@@ -28,7 +28,7 @@ export function PageBanner() {
           <div className="page-banner___icons-innerwrapper">
           <div className="page-banner___changelang">
             {/* <Flag className="page-banner___changelang_icon" /> */}
-            <img src="src/assets/images/PageNavigation_images/Flag.png" alt="Flag" className="page-banner___changelang_icon flag" />
+            <img src="../src/assets/images/PageNavigation_images/Flag.png" alt="Flag" className="page-banner___changelang_icon flag" />
             English
             <ArrowDown className="page-banner___changelang_icon arrowdown" />
           </div>
