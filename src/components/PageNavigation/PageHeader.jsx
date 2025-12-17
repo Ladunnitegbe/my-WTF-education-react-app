@@ -1,5 +1,5 @@
 import "./PageNavigation.css";
-import EdunityLogo from "../../assets/images/PageNavigation_images/EdunityLogo.svg?react";
+// import EdunityLogo from "../../assets/images/PageNavigation_images/EdunityLogo.svg?react";
 import Search from "../../assets/images/PageNavigation_images/Search.svg?react";
 import PersonIcon from "../../assets/images/PageNavigation_images/PersonIcon.svg?react";
 import ArrowDownDark from "../../assets/images/PageNavigation_images/ArrowDownDark.svg?react";
@@ -12,7 +12,7 @@ export function PageHeader() {
     <>
     <section className="page-header">
         <div className="page-header_logo">
-            <EdunityLogo className="page-header_logo__icon"/>
+            {/* <EdunityLogo className="page-header_logo__icon"/> */}
             <img src="/EdunityLogo.png" className="page-header_logo__icon"/>
         </div>
         <div className="page-header_links">
