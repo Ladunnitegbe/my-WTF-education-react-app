@@ -2,7 +2,7 @@ import "./PageNavigation.css";
 
 import Clock from "../../assets/images/PageNavigation_images/Clock.svg?react";
 import Location from "../../assets/images/PageNavigation_images/Location.svg?react";
-import Flag from "../../assets/images/PageNavigation_images/Flag.svg?react";
+// import Flag from "../../assets/images/PageNavigation_images/Flag.svg?react";
 import ArrowDown from "../../assets/images/PageNavigation_images/ArrowDown.svg?react";
 import Facebook from "../../assets/images/PageNavigation_images/Facebook.svg?react";
 import Twitter from "../../assets/images/PageNavigation_images/Twitter.svg?react";
@@ -27,7 +27,8 @@ export function PageBanner() {
         <section className="page-banner__iconswrapper">
           <div className="page-banner___icons-innerwrapper">
           <div className="page-banner___changelang">
-            <Flag className="page-banner___changelang_icon" />
+            {/* <Flag className="page-banner___changelang_icon" /> */}
+            <img src="src/assets/images/PageNavigation_images/Flag.png" alt="Flag" className="page-banner___changelang_icon flag" />
             English
             <ArrowDown className="page-banner___changelang_icon arrowdown" />
           </div>
