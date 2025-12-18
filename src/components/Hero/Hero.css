@@ -10,15 +10,23 @@
 .rightside_image{
     width: 18.1875rem;
     height: 18.1875rem;
-     margin-left: 2rem;
+    
     position: absolute;
     top: 3.0187rem;
     left: 1705.8px;
 }
 
+.rightside_image__crossicon{
+    position: absolute;
+    top: 698.47px;
+    left: 1822.2px;
+}
+
+
 .hero{
     position: relative;
      background-color: #FFF8F0;
+     height: 50.3125rem;
 }
 
 .hero_main_content{
@@ -26,4 +34,148 @@
   padding-right: var(--padding-right);
   display: flex;
  
+}
+
+
+
+.little_girl_image{
+    width: 26.125rem;
+    height: 30.375rem;
+}
+
+.hero_main_content__title{
+    display: flex;
+    flex-direction: column;
+    width: 40.5rem;
+    height: 100%;
+    position: relative;
+    margin-top: 13.6687rem;
+    font-family: var(--font-family-body);
+   
+}
+
+.hero_main_content__title___crossicon{
+    width: 1.3125rem;
+    height: 1.3125rem;
+    position: absolute;
+    left: 53.8875rem;
+    top : 8.4231rem;
+}
+
+.hero_main_content__title___header_container{
+    height: 13.8125rem;
+    width: 40.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-bottom: .4594rem;
+    
+}
+
+.hero_main_content__title___header{
+    color: #17254E;
+    
+    width: 33.7263rem;
+    height: 13.5rem;
+    line-height: 4.5rem;
+    font-weight: bold;
+    justify-self: left;
+    align-self: center;
+letter-spacing: 0%;
+font-size: 3.75rem;
+}
+
+.hero_main_content__title___paragraph{
+    color: #333931;
+    font-size: 1.0625rem;
+    line-height: 2.0187rem;
+    justify-self: left;
+    align-self: center;
+    margin-bottom: 1.9156rem;
+}
+
+.cloudimage{
+    width: 6.25rem;
+    height: 4.5rem;
+    position: absolute;
+    top: 41.285rem;
+    left: 45.3506rem;
+}
+
+.hero_main_content__title___button{
+    margin-right: 1.75rem;
+}
+
+.hero_main_content__title_button_wrapper{
+    position: relative;
+}
+
+.littlebluecircle{
+        width: 2.6994rem;
+        height: 2.6994rem;
+        background-color: var(--secondary-color-hero);
+        opacity: 0.3;
+        border-radius: 50%;
+        position: absolute;
+        top: 1.6875rem;
+        left: 15.375rem;
+}
+
+.littlebluecircletwo{
+width: 2.9994rem;
+    height: 2.9994rem;
+   border: var(--secondary-color-hero) solid 0.125rem;
+    opacity: 0.2;
+    border-radius: 50%;
+    position: absolute;
+    top: 0.8995rem;
+    left: 14.775rem;
+    
+}
+
+.hero_main_content__title___link{
+    color: #0E2A46;
+
+}
+
+.hero_main_content__title___button{
+    margin-right: .9375rem;
+}
+
+
+.three_marks_image{
+width: 2.1875rem;
+height: 2rem;
+transform: rotate(-6deg);
+position: absolute;
+left: 64.0131rem;
+top: 3.3525rem;
+}
+
+.hero_main_content__topimage__wrapper{
+    margin-left: ;
+}
+
+.hero_main_content__topimage__wrapper__orange{
+    background-color: var(--primary-color-hero) ;
+    width: 303px;
+    height: 386px;
+    border-radius: 50% 0 50% 50%;
+    margin-top: 8.375rem;
+    position: relative;
+    
+}
+
+.little_boy_image{
+    width: 18.9375rem;
+    height: 28.75rem;
+    /* margin-top: 3.75rem; */
+    z-index: 10;
+    position: absolute;
+    bottom: 0;
+  right: 0;
+}
+
+.hero_main_content__topimage__wrapper .studentsinfo{
+    
 }
