@@ -3,7 +3,7 @@ import EdunityLogo from "../../assets/images/PageNavigation_images/EdunityLogo.p
 import Search from "../../assets/images/PageNavigation_images/Search.svg?react";
 import PersonIcon from "../../assets/images/PageNavigation_images/PersonIcon.svg?react";
 import ArrowDownDark from "../../assets/images/PageNavigation_images/ArrowDownDark.svg?react";
-import Button from "../Button/Button.jsx"
+import Button from "../Button/Button"
 
 
 

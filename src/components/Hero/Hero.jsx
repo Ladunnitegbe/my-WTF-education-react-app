@@ -8,7 +8,7 @@ import Threemarks from "../../assets/images/hero_images/threemarks.png";
 import LittleBoy from "../../assets/images/hero_images/herolittleboy.png";
 import MultiplePeople from "../../assets/images/hero_images/multiplepeople.png";
 import LittleGirl from "../../assets/images/hero_images/herolittlegirl.png";
-import Button from "../Button/Button.jsx";
+import Button from "../Button/Button";
 
 export function Hero() {
   return (
