@@ -1,0 +1,29 @@
+.leftside_image{
+    width: 19.875rem;
+    height: 9.75rem;
+    transform: rotate(-2deg);
+    position: absolute;
+    top: 0;
+
+
+}
+.rightside_image{
+    width: 18.1875rem;
+    height: 18.1875rem;
+     margin-left: 2rem;
+    position: absolute;
+    top: 3.0187rem;
+    left: 1705.8px;
+}
+
+.hero{
+    position: relative;
+     background-color: #FFF8F0;
+}
+
+.hero_main_content{
+     padding-left: var(--padding-left);
+  padding-right: var(--padding-right);
+  display: flex;
+ 
+}
