@@ -1,4 +1,4 @@
 * {
-   /* box-sizing: border-box; */
-    width: var(--max-width);
+  box-sizing: border-box;
+  max-width: var(--max-width);
 }

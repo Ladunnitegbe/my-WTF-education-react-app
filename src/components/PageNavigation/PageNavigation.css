@@ -7,6 +7,7 @@
   padding-left: var(--padding-left);
   padding-right: var(--padding-right);
   background-color: var(--primary-color-page-banner);
+  /* max-width: var(--max-width); */
   width: 100%;
   display: flex;
   align-items: center;
@@ -104,6 +105,7 @@
     padding-left: var(--padding-left);
   padding-right: var(--padding-right);
   background-color: #ffffff;
+  /* max-width: var(--max-width); */
   width: 100%;
   display: flex;
   align-items: center;
@@ -147,7 +149,7 @@
 
 .page-header_contact{
     display: flex;
-
+align-items: center;
 }
 
 .page-header_contact .search{

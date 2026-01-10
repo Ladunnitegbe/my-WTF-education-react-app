@@ -1,11 +1,9 @@
 .btn{
-    
     color: #FFFFFF;
     font-family: var(--font-family-header);
     height: 3.6875rem;
     border: none;
     border-radius: 1.8rem;
-    
     font-size: .9375rem;
 }
 
