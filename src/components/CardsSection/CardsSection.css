@@ -1,5 +1,6 @@
 @import url(../../themes/variables.css);
 @import url(../../themes/global.css);
+@import url(../../themes/normalize.css);    
 
 .cards_section {
   width: 100%;

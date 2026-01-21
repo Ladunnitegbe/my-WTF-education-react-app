@@ -1,5 +1,4 @@
 import "./MultiplePeopleButton.css";
-import Button from "../Button/Button.jsx";
 
 
 export function MultiplePeopleButton({
