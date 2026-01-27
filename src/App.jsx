@@ -9,6 +9,7 @@ import { EventsSection } from "./components/EventsSection/EventsSection.jsx";
 import { Testimonials } from "./components/Testimonials/Testimonials.jsx";
 import { TeacherSection } from "./components/TeacherSection/TeacherSection.jsx";
 import { NewsletterSection } from "./components/NewsletterSection/NewsletterSection.jsx";
+import { Footer } from "./components/Footer/Footer.jsx"
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
       <Testimonials />
       <TeacherSection />
       <NewsletterSection />
+      <Footer />
     </>
   );
 }
